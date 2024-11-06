@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_NhaSachOnline.Web", "Blazor_NhaSachOnline.Web\Blazor_NhaSachOnline.Web.csproj", "{180889FE-227B-40DC-9D24-F1AF7F10561E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhaSachOnline.Web", "Blazor_NhaSachOnline.Web\NhaSachOnline.Web.csproj", "{180889FE-227B-40DC-9D24-F1AF7F10561E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_NhaSachOnline.Mobile", "Blazor_NhaSachOnline.Mobile\Blazor_NhaSachOnline.Mobile.csproj", "{E364E501-C371-48C7-8A11-B0BC84514720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhaSachOnline.Mobile", "Blazor_NhaSachOnline.Mobile\NhaSachOnline.Mobile.csproj", "{E364E501-C371-48C7-8A11-B0BC84514720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_NhaSachOnline.Shared", "Blazor_NhaSachOnline.Shared\Blazor_NhaSachOnline.Shared.csproj", "{EB524A48-DE9E-4C22-B054-702CFB7793B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhaSachOnline.Shared", "Blazor_NhaSachOnline.Shared\NhaSachOnline.Shared.csproj", "{EB524A48-DE9E-4C22-B054-702CFB7793B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_NhaSachOnline.Shared.Component", "Blazor_NhaSachOnline.Shared.Component\Blazor_NhaSachOnline.Shared.Component.csproj", "{43B58B9A-C2E4-4605-962C-C4E76792AE40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhaSachOnline.Shared.Component", "Blazor_NhaSachOnline.Shared.Component\NhaSachOnline.Shared.Component.csproj", "{43B58B9A-C2E4-4605-962C-C4E76792AE40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
