@@ -1,0 +1,31 @@
+Blazor: nhà sách online
+vẫn dùng asp.net core mvc + blazor web app
+.net 8
+thư viện identity đăng ký đăng nhập đăng xuất
+mobile + web + dùng chung database
+Mobile: MAUI
+cần API
+cshtml
+
+Mobile
+Web
+Share (chứa dùng chung)
+Shared.Component class bình thường
+
+thi trắc nghiệm
+
+Shared.Component 
+tạo class razor library
+
+ôn kiến thức cơ bản: Sắp xếp, tìm kiếm, mảng, danh sách liên kết, queue, stack, linq, oop (đa hình, kế thừa, trừu tượng, đóng gói)...
+sql cơ bản
+
+
+asp.net
+(cũ)
+mới thì nên search hướng tiếng Anh
+
+
+
+
+quan trọng kết quả cuối fresher khi cho làm một dự án thử 
